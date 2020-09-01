@@ -1,8 +1,7 @@
 ### Hi there 👋, My name is Lay
 #### ------------------------------------------------
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
-Skills: Data science, Python, Tensorflow, Pytorch
+Skills: Data science, Python, Tensorflow, Pytorch, Django
 
 - 🔭 . 
 
